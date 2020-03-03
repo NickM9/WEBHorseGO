@@ -1,0 +1,13 @@
+by.horsego.bean
+by.horsego.command
+by.horsego.command.impl.bet_commands
+by.horsego.command.impl.game_commands
+by.horsego.command.impl.horse_commands
+by.horsego.command.impl.user_commands
+by.horsego.controller
+by.horsego.dao
+by.horsego.dao.pool
+by.horsego.filter
+by.horsego.properties_manager
+by.horsego.service
+by.horsego.tags
